@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Kumar Shrestha</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif">
+<img align = "right" alt = "coding" width = "400" src = "https://media.tenor.com/wA8Gx_UqnY4AAAAC/coding.gif"> <br />
 
 - 🌱 I’m currently learning **Next js, Tailwindcss, Javascript**
 
